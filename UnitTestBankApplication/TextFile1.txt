@@ -1,0 +1,41 @@
+﻿Test Case#1
+			if (accNumber != null)
+            {
+                accountStatus = true;
+            }
+            else
+            {
+                accountStatus = false;
+            }
+
+			return accountStatus;
+
+Test Case#2
+if (accNumber != null)
+            {
+                accountStatus = true;
+            }
+            else
+                if (String.IsNullOrWhiteSpace(accNumber))
+                {
+                    throw new ArgumentException("Can't Pass Null account number");
+                }
+                else
+                {
+                    accountStatus = false;
+                }
+
+            return accountStatus; 
+
+TestCase#3
+
+ if (String.IsNullOrWhiteSpace(accNumber))
+                {
+                    throw new ArgumentException("Can't Pass Null account number");
+                }
+                else
+                {
+                    accountStatus = true;
+                }
+
+            return accountStatus; 

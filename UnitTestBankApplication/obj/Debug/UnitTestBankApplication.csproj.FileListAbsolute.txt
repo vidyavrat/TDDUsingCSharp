@@ -1,0 +1,21 @@
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.dll
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.pdb
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.csprojResolveAssemblyReference.cache
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.dll
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.pdb
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\bin\Debug\BankApplication.dll
+E:\Projects\UnitTestPOC\BankApplication\UnitTestBankApplication\bin\Debug\BankApplication.pdb
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.dll
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.pdb
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\bin\Debug\BankApplication.dll
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\bin\Debug\BankApplication.pdb
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.csprojResolveAssemblyReference.cache
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.dll
+H:\VidyaVrat\Microsoft .NET\Application Code POCs\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.pdb
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.dll
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\bin\Debug\UnitTestBankApplication.pdb
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\bin\Debug\BankApplication.dll
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\bin\Debug\BankApplication.pdb
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.csprojResolveAssemblyReference.cache
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.dll
+H:\VidyaVrat\Community & Speaking\BDotNet_WebEd 4June 2014\TDDUsingC#\UnitTestBankApplication\obj\Debug\UnitTestBankApplication.pdb
