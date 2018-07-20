@@ -6,7 +6,7 @@ using BankApplication.Savings;
 namespace UnitTestBankApplication
 {
     [TestClass]
-    public class UnitTest1
+    public class AccountUnitTest
     {
         // Test if an account is active
         [TestMethod][Priority(0)] [TestCategory("Happy Path")]
